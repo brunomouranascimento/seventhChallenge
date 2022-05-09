@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DB77D4C02829785E007C0796 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB77D4BF2829785E007C0796 /* ViewModel.swift */; };
 		DBBCFBFB28258FDC00460EA7 /* seventhChallengeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBCFBFA28258FDC00460EA7 /* seventhChallengeApp.swift */; };
 		DBBCFBFD28258FDC00460EA7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBBCFBFC28258FDC00460EA7 /* ContentView.swift */; };
 		DBBCFBFF28258FDF00460EA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DBBCFBFE28258FDF00460EA7 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DB77D4BF2829785E007C0796 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
 		DBBCFBF728258FDC00460EA7 /* seventhChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = seventhChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBBCFBFA28258FDC00460EA7 /* seventhChallengeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = seventhChallengeApp.swift; sourceTree = "<group>"; };
 		DBBCFBFC28258FDC00460EA7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				DBBCFBFA28258FDC00460EA7 /* seventhChallengeApp.swift */,
 				DBBCFBFC28258FDC00460EA7 /* ContentView.swift */,
+				DB77D4BF2829785E007C0796 /* ViewModel.swift */,
 				DBBCFBFE28258FDF00460EA7 /* Assets.xcassets */,
 				DBBCFC0028258FDF00460EA7 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DBBCFBFD28258FDC00460EA7 /* ContentView.swift in Sources */,
+				DB77D4C02829785E007C0796 /* ViewModel.swift in Sources */,
 				DBBCFBFB28258FDC00460EA7 /* seventhChallengeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
